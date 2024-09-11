@@ -2,10 +2,10 @@
 Hi 👋 My name is T R Bhoomika
 =============================
 
-Student
+Graduated
 -------
 
-I'm still learning
+I'm looking for a job
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhoomikatr310@gmail.com](mailto:bhoomikatr310@gmail.com)
